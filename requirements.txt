@@ -17,4 +17,4 @@ python-multipart==0.0.9
 email-validator==2.2.0
 
 # optional
-orjson==3.10.7
+orjson>=3.10.15
